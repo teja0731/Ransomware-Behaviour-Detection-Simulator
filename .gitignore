@@ -1,0 +1,9 @@
+# Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local secrets and editor settings
+.streamlit/secrets.toml
+.vscode/
